@@ -10,6 +10,7 @@ We walk through quantizing **[Qwen/Qwen3-4B-Instruct](https://huggingface.co/Qwe
 
 | # | Document | Description |
 |---|----------|-------------|
+| ⭐ | **[Visualizing Quantization](visualizing_quantization/)** | **Start Here:** Beginner-friendly visual guide & intuition building (Notebooks + Analogies) |
 | 1 | [AWQ Theory Deep-Dive](docs/01_awq_theory.md) | Mathematical foundations, quantization basics, and the full AWQ algorithm explained |
 | 2 | [AWQ vs Other Methods](docs/02_awq_vs_others.md) | Comparison with GPTQ, RTN, SmoothQuant, and GGUF |
 | 3 | [Quantization Guide](tutorials/03_quantize_qwen3_awq.md) | Step-by-step guide to quantize Qwen3-4B-Instruct with AWQ |
